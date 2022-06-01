@@ -1,0 +1,6 @@
+project: rnshah9/tinyrenderer
+target: tinyrenderer
+
+cmds:
+  - cmd: /repo/build/tinyrenderer /test.obj
+    filepath: /test.obj
