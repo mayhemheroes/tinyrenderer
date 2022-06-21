@@ -1,4 +1,4 @@
-project: rnshah9/tinyrenderer
+project: tinyrenderer
 target: tinyrenderer
 
 cmds:
