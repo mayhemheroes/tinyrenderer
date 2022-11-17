@@ -1,0 +1,5 @@
+project: tinyrenderer
+target: tinyrenderer
+
+cmds:
+  - cmd: /tinyrenderer @@
